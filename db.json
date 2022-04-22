@@ -1,0 +1,25 @@
+{
+  "tasks": [],
+  "parts": [
+    {
+      "id": 1,
+      "name": "Morning",
+      "count": 4
+    },
+    {
+      "id": 2,
+      "name": "Afternoon",
+      "count": 2
+    },
+    {
+      "id": 3,
+      "name": "Evening",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "name": "Night",
+      "count": 1
+    }
+  ]
+}
